@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Burn Protector</string>
+    <string name="accessibility_service_description">Защита OLED экрана от выгорания. Требуется для отображения полос поверх статус-бара и панели навигации.</string>
+</resources>
